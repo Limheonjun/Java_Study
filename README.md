@@ -6,6 +6,7 @@
    * [AutoBoxingUnboxing](https://github.com/Limheonjun/Java_Study/tree/master/Java5/src/AutoBoxingUnboxing)
    * [VarArgs](https://github.com/Limheonjun/Java_Study/tree/master/Java5/src/VarArgs)
    * [Static Import](https://github.com/Limheonjun/Java_Study/tree/master/Java5/src/StaticImport)
+   * [Generics](https://github.com/Limheonjun/Java_Study/tree/master/Java5/src/Generics)
 
 
 
