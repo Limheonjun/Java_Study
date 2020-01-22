@@ -9,5 +9,6 @@
    * [Generics](https://github.com/Limheonjun/Java_Study/tree/master/Java5/src/Generics)
    * [Annotation](https://github.com/Limheonjun/Java_Study/tree/master/Java5/src/Annotation)
    * [Enumeration](https://github.com/Limheonjun/Java_Study/tree/master/Java5/src/Enumeration)
+   * [Scanner](https://github.com/Limheonjun/Java_Study/tree/master/Java5/src/Scanner)
 
 
