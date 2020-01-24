@@ -5,6 +5,7 @@ import java.util.function.BiConsumer;
 import java.util.function.BiFunction;
 import java.util.function.BiPredicate;
 import java.util.function.BinaryOperator;
+import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
@@ -23,8 +24,8 @@ public class Main {
 		System.out.println("result : "+result); // result : supplier
 		
 		// Consumer(doesn't work)
-		//Consumer<String> c = (str)->System.out.println("result : "+str);
-		//c.accept("consumer");
+		Consumer<String> c = (str)->System.out.println("result : "+str);
+		c.accept("consumer");
 		
 		// Function
 		Function<String, Integer> f = str->Integer.parseInt(str);
@@ -55,8 +56,8 @@ public class Main {
 		System.out.println("result : "+bf.apply("2", 3)); // result : 23
 		
 		// Comparator
-		Comparator<String> c = (str1, str2) -> str1.compareTo(str2);
-		System.out.println("result : "+c.compare("aaa", "bbb")); // result : -1
+		Comparator<String> cp = (str1, str2) -> str1.compareTo(str2);
+		System.out.println("result : "+cp.compare("aaa", "bbb")); // result : -1
 		
 
 	}
