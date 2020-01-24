@@ -18,12 +18,12 @@ public class Main {
 		Runnable r = ()->System.out.println("Hello");
 		r.run(); // Hello
 		
-		// Supplier<T>
+		// Supplier
 		Supplier<String> s = ()->"supplier";
 		String result = s.get();
 		System.out.println("result : "+result); // result : supplier
 		
-		// Consumer(doesn't work)
+		// Consumer
 		Consumer<String> c = (str)->System.out.println("result : "+str);
 		c.accept("consumer");
 		
