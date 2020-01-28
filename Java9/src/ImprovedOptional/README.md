@@ -1,15 +1,15 @@
 # Improved Optinal
 
 ## Decription
-- Optional¿¡ ¸Þ¼Òµå Ãß°¡
+- Optionalì— ë©”ì†Œë“œ ì¶”ê°€
 
 ## Features
 - or
-  - Áß°£ Ã³¸® ¸Þ¼Òµå·Î ±âº»°ªÀ» Á¦°øÇÒ ¼ö ÀÖ´Â °ø±ÞÀÚ ÇÔ¼ö¸¦ Á¤ÀÇÇÒ ¼ö ÀÖÀ½
-  - Áß°£¿¡ Ã¼ÀÌ´×À» ÅëÇØ ¿ì¼±¼øÀ§¸¦ °áÁ¤ÇÒ ¼ö ÀÖÀ½
+  - ì¤‘ê°„ ì²˜ë¦¬ ë©”ì†Œë“œë¡œ ê¸°ë³¸ê°’ì„ ì œê³µí•  ìˆ˜ ìžˆëŠ” ê³µê¸‰ìž í•¨ìˆ˜ë¥¼ ì •ì˜í•  ìˆ˜ ìžˆìŒ
+  - ì¤‘ê°„ì— ì²´ì´ë‹ì„ í†µí•´ ìš°ì„ ìˆœìœ„ë¥¼ ê²°ì •í•  ìˆ˜ ìžˆìŒ
 - ifPresentOrElse
-  - ifPresent ¸Þ¼Òµå¿Í À¯»çÇØ º¸ÀÌÁö¸¸ ÇÑ°¡Áö ¸Å°³º¯¼ö¸¦ ´õ ¹ÞÀ» ¼ö ÀÖÀ½
-  - Ã¹¹øÂ° ¸Å°³º¯¼ö actionÀº À¯È¿ÇÑ °´Ã¼¸¦ ¹ÞÀ» °æ¿ì ½ÇÇà, µÎ¹øÂ° ¸Å°³º¯¼ö
-  - emptyActionÀº À¯È¿ÇÑ °´Ã¼¸¦ ¹ÞÁö ¸øÇßÀ» °æ¿ì ½ÇÇà
+  - ifPresent ë©”ì†Œë“œì™€ ìœ ì‚¬í•´ ë³´ì´ì§€ë§Œ í•œê°€ì§€ ë§¤ê°œë³€ìˆ˜ë¥¼ ë” ë°›ì„ ìˆ˜ ìžˆìŒ
+  - ì²«ë²ˆì§¸ ë§¤ê°œë³€ìˆ˜ actionì€ ìœ íš¨í•œ ê°ì²´ë¥¼ ë°›ì„ ê²½ìš° ì‹¤í–‰, ë‘ë²ˆì§¸ ë§¤ê°œë³€ìˆ˜
+  - emptyActionì€ ìœ íš¨í•œ ê°ì²´ë¥¼ ë°›ì§€ ëª»í–ˆì„ ê²½ìš° ì‹¤í–‰
  - stream
-  - ¸Þ¼­µå´Â Áß°£ Ã³¸® ¿¬»êÀÚ·Î ±âÁ¸ ÀÚ¹Ù 8¿¡¼­ ¿É¼Å³Î °´Ã¼°¡ ¹Ù·Î ½ºÆ®¸² °´Ã¼·Î ÀüÈ¯ µÇÁö ¾Ê¾Æ ºÒÆíÇß´ø ºÎºÐÀ» ÇØ¼Ò
+   - ë©”ì„œë“œëŠ” ì¤‘ê°„ ì²˜ë¦¬ ì—°ì‚°ìžë¡œ ê¸°ì¡´ ìžë°” 8ì—ì„œ ì˜µì…”ë„ ê°ì²´ê°€ ë°”ë¡œ ìŠ¤íŠ¸ë¦¼ ê°ì²´ë¡œ ì „í™˜ ë˜ì§€ ì•Šì•„ ë¶ˆíŽ¸í–ˆë˜ ë¶€ë¶„ì„ í•´ì†Œ
