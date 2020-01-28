@@ -1,10 +1,10 @@
 # Reactive Stream
 
 ## Decription
-- ÀÚ¹Ù¸¦ ¸Å¿ì ½±°Ô ºñµ¿±â ¹æ½Ä, È®Àå, º´·Ä ÀÀ¿ë ÇÁ·Î±×·¥À» ±¸ÇöÇÏµµ·Ï ¼³°èµÈ ÇÁ·¹ÀÓ¿öÅ©
+- ìë°”ë¥¼ ë§¤ìš° ì‰½ê²Œ ë¹„ë™ê¸° ë°©ì‹, í™•ì¥, ë³‘ë ¬ ì‘ìš© í”„ë¡œê·¸ë¨ì„ êµ¬í˜„í•˜ë„ë¡ ì„¤ê³„ëœ í”„ë ˆì„ì›Œí¬
 
 ## Features
-? java.util.concurrent.Flow
-? java.util.concurrent.Flow.Publisher
-? java.util.concurrent.Flow.Subscriber
-? java.util.concurrent.Flow.Processor
+- java.util.concurrent.Flow
+- java.util.concurrent.Flow.Publisher
+- java.util.concurrent.Flow.Subscriber
+- java.util.concurrent.Flow.Processor
