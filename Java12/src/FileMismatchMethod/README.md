@@ -1,9 +1,7 @@
-# Switch Expressions
+# File Mismatch Method
 
 ## Decription
-- 새로운 switch문
+- 두 파일을 비교하는 메소드
 
 ## Features
-- case안에 조건 여러개 생성 가능
-- '->'를 break대신 사용
-- 직접 식으로 사용하여 대입연산 가능
+- 처음 맞지 않는 문자가 나타나는 위치를 반환하거나, 두 파일이 일치하면 -1을 반환
